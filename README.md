@@ -4,7 +4,7 @@ Generates and runs Python codes
 # Setup
 
 ```
-  $ pip install openai subprocess PySide6 requests datetime 
+  $ pip install openai PySide6 requests datetime 
 ```
 The use of GPT models requires `your OpenAI API key in app's source code (line: 29;  api_key='')` - You need to edit Ruckus.py
 ```
