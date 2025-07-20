@@ -1,4 +1,8 @@
-# Ruckus - Interactive AI implementation
+# [SHOWCASE] Ruckus - Interactive AI implementation
+
+> [!IMPORTANT]
+> Due to no external interest in the software - this project hasn't been updated in a long time, it now serves as a showcase of my PySide/ PyQt experience.
+
 Generates and runs Python codes
 
 # Setup
